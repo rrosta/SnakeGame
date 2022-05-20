@@ -1,0 +1,10 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/rostaroghani/Documents/GitHub/97105963
+CMake Warning (dev) at CMakeLists.txt:5:
+  Syntax Warning in cmake code at column 35
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/rostaroghani/Documents/GitHub/97105963/cmake-build-debug
